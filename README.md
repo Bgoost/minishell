@@ -5,4 +5,4 @@ Known Bugs with examples:
 - `<< "'$USER'"` Ends with `''$USER'` instead of `'$USER'`
 - `<< eof << eof3 | | << eof4` Here-docs before syntax error are not executed
 
-By [crmanzan](https://github.com/Bgoost) and yours truly
+By [anovoa](https://github.com/annoga) and yours truly
